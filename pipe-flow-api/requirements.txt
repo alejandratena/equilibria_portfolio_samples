@@ -1,0 +1,8 @@
+fastapi==0.116.1
+pydantic==2.11.5
+httpx==0.28.1
+# pinned: later anyio versions trigger a deprecation warning inside this starlette version
+anyio==4.12.1
+pytest==9.1.1
+# optional, only to serve the API locally:
+# uvicorn==0.35.0

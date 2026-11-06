@@ -1,0 +1,7 @@
+{
+  "flow_rate_m3_s": 1.5e-5,
+  "diameter_m": 0.02,
+  "length_m": 5.0,
+  "density_kg_m3": 998.0,
+  "dynamic_viscosity_pa_s": 0.001
+}
